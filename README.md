@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muslumebeyzayildiz
-- I'm studying computer engineering at selcuk university.
+- I'm studying computer engineering at selcuk universityvf.
 - 👀 I’m interested in c++
 - -👀 I’m interested in web design
 - 🌱 I’m currently learning arduino
