@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @muslumebeyzayildiz
-- I'm studying computer engineering at selcuk universityvf.
-- 👀 I’m interested in c++
+- I'm studying computer engineering at selcuk university.
+- 👀 I’m interested in flutter.
+- 👀 I’m interested in c++.
 - -👀 I’m interested in web design
 - 🌱 I’m currently learning arduino
 - 💞️ I’m looking to collaborate on ...
