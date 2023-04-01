@@ -2,7 +2,7 @@
 - I'm studying computer engineering at selcuk university.
 - 👀 I’m interested in flutter.
 - 👀 I’m interested in c++.
-- -👀 I’m interested in web design
+- 👀 I’m interested in web desig
 - 🌱 I’m currently learning arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  beyzayldz642@gmail.com
