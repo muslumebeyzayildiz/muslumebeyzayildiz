@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @muslumebeyzayildiz
-- I'm studying computer engineering at selcuk university.
-- 👀 I’m interested in flutter.
-- 👀 I’m interested in c#.
-- 👀 I’m interested in web design.
-- 🌱 I’m currently learning arduino.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  beyzayldz642@gmail.com
+👋 Hi, I’m @muslumebeyzayildiz
+I'm studying Computer Engineering at Selcuk University.
+👀 I’m interested in Artificial Intelligence, Machine Learning, and Deep Learning.
+👀 I’m passionate about mobile application development, particularly with Flutter.
+👀 I’m also experienced in scientific writing, having published multiple research articles.
+🌱 I’m currently exploring new advancements in AI-driven image processing and prediction systems.
+💞️ I’m looking to collaborate on projects related to AI, mobile app development, and innovative machine learning applications.
+📫 You can reach me at beyzayldz642@gmail.com
 
 <!---
 muslumebeyzayildiz/muslumebeyzayildiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
