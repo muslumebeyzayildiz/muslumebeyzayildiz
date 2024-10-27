@@ -8,7 +8,9 @@ I'm studying Computer Engineering at Selcuk University.
 👀 I’m also experienced in scientific writing, having published multiple research articles.
 
 🌱 I’m currently exploring new advancements in AI-driven image processing and prediction systems.
+
 💞️ I’m looking to collaborate on projects related to AI, mobile app development, and innovative machine learning applications.
+
 📫 You can reach me at beyzayldz642@gmail.com
 
 <!---
